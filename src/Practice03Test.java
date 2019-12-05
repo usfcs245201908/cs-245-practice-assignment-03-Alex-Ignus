@@ -5,7 +5,7 @@ public class Practice03Test {
 	
 	protected final int    DEFAULT_ARRAY_SIZE = 5000;
 	protected final int    DEFAULT_SEARCHES = 2000;
-	protected final String DEFAULT_SEARCH_TYPE = "linear";
+	protected final String DEFAULT_SEARCH_TYPE = "Binary Iterative";
 
 	protected int searches;
 	protected int [] arr;
